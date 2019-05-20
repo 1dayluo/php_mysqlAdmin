@@ -1,0 +1,67 @@
+body
+{
+    background-image: url(image/lgg.png)  no-repeat;
+    
+
+}
+
+#ww
+{
+    opacity:0.8; 
+    filter:alpha(opacity=80);
+    opacity:0.7;
+    filter:alpha(opacity=70);
+}
+#page
+{
+    
+    margin:0 5% 0 5%;
+    padding:10px 10px;
+   
+
+    height:900px;
+    border-color:ghostwhite;
+
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    
+    
+}
+#page p
+{
+    color:black;
+}
+#header
+{
+	margin: 0 auto;
+	height: 100px;
+	text-align:center;
+    
+    
+}
+
+#page-One
+{
+    margin:10px 0;
+
+    height:70%;
+    width:20%;
+    float:left;
+
+ 
+    background-size: 100% 100%;
+
+}  
+#page-Two
+{
+    margin:10px 0;
+    border-style:dashed;
+    height:50%;
+    width:78%;
+    float:right;
+    border-radius: 3%;
+    text-align:center;
+    
+}
+ 
+
